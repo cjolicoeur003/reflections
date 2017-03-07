@@ -1,0 +1,3 @@
+When you initialize a repository, it allows you do use git on it
+and adds hidden files in the repository.  You need it to do version
+control (I think).
