@@ -1,0 +1,27 @@
+It was nice to see the diff between two versions of a file
+because then I didn't need to go line by line by myself 
+to figure it out.
+
+Sometimes you realize your original approach was accurate
+so it is nice to be able to go back and see what you did.
+Especially with coding, you could add code and find a bug
+so it is nice to go back and see what went wrong.
+
+The pros of manually choosing when to commit include making
+sure that they are efficient and that you don't have too many
+or too little commits.  The con is that you might forget to 
+commit before it is too late and it might come back to bite you.
+
+Files using git typically need multiple files together to work.
+Google docs do not rely on other files so they can be treated
+separately
+
+Git log will give you a history of all the commits done to that
+file.  Then you can grab two ids you're interested in and use
+git diff to find the differences between the two files.
+
+Version control is nice so that you can make changes without fear
+of screwing something up.  If you make a change that messes with the code
+you can easily go back and fix it.
+
+I want to use Git to get a new job.
